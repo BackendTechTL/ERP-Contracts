@@ -1,6 +1,6 @@
 <?php
 
-namespace erp-contracts\AuthService;
+namespace ErpContracts\AuthService;
 
 interface PermissionInterface
 {

@@ -1,5 +1,5 @@
 {
-  "name": "erp/contracts",
+  "name": "ERP/contracts",
   "type": "library",
   "description": "Common Container Interface",
   "keywords": ["erp", "library", "interface"],
@@ -19,7 +19,7 @@
   },
   "autoload": {
     "psr-4": {
-      "erp-contracts\\": "src/"
+      "ErpContracts\\": "src/"
     }
   },
   "extra": {
