@@ -1,3 +1,4 @@
+
 {
   "name": "backendtechtl/erp-contracts",
   "type": "library",
@@ -26,5 +27,6 @@
     "branch-alias": {
       "dev-master": "2.0.x-dev"
     }
-  }
+  },
+  "minimum-stability": "stable"
 }
