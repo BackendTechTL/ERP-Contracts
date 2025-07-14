@@ -1,5 +1,5 @@
 {
-  "name": "ERP-Contracts",
+  "name": "erp-contracts",
   "type": "library",
   "description": "Common Container Interface",
   "keywords": ["erp", "library", "interface"],
