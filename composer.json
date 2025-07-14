@@ -1,0 +1,30 @@
+{
+  "name": "ERP/library",
+  "type": "library",
+  "description": "Common Container Interface",
+  "keywords": ["erp", "library", "interface"],
+  "homepage": "https://github.com/BackendTechTL/ERP-Contracts",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alex",
+      "homepage": "https://github.com/BackendTechTL"
+    }
+  ],
+  "support": {
+    "source": "https://github.com/BackendTechTL"
+  },
+  "require": {
+    "php": ">=8.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "ERP\\": "src/"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "2.0.x-dev"
+    }
+  }
+}
