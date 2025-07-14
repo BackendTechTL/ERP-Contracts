@@ -1,6 +1,6 @@
 <?php
 
-namespace ERP\RegistryService;
+namespace erp-contracts\RegistryService;
 
 use DateTimeImmutable;
 
